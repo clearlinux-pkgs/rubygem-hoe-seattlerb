@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-seattlerb
 Version  : 1.3.4
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/hoe-seattlerb-1.3.4.gem
 Source0  : https://rubygems.org/downloads/hoe-seattlerb-1.3.4.gem
 Summary  : No detailed summary available
