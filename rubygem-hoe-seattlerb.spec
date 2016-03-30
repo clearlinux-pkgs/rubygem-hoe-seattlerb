@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-seattlerb
 Version  : 1.3.4
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/hoe-seattlerb-1.3.4.gem
 Source0  : https://rubygems.org/downloads/hoe-seattlerb-1.3.4.gem
 Summary  : No detailed summary available
@@ -60,41 +60,14 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/hoe-seattlerb-1.3.4.gem
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Email/cdesc-Email.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Email/define_email_tasks-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Email/email_to-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Email/initialize_email-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/History/cdesc-History.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/History/flog_flay-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/History/history-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/History/load_history-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/History/save_history-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/cdesc-Perforce.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/define_perforce_tasks-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/initialize_perforce-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/p4_history-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/p4_integrate-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/p4_revert-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/p4_submit-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/p4_versions-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/p4sh-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/perforce_ignore-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Perforce/validate_manifest_file-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Seattlerb/cdesc-Seattlerb.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/Seattlerb/define_seattlerb_tasks-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/Hoe/cdesc-Hoe.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/page-History_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-seattlerb-1.3.4/ri/page-README_txt.ri
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/.autotest
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/History.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/README.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/lib/hoe/email.rb
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/lib/hoe/history.rb
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/lib/hoe/perforce.rb
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-seattlerb-1.3.4/lib/hoe/seattlerb.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/hoe-seattlerb-1.3.4.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/hoe-seattlerb-1.3.4.gem
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/.autotest
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/History.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/README.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/lib/hoe/email.rb
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/lib/hoe/history.rb
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/lib/hoe/perforce.rb
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-seattlerb-1.3.4/lib/hoe/seattlerb.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/hoe-seattlerb-1.3.4.gemspec
